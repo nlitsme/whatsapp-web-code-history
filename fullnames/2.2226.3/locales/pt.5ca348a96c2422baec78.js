@@ -1,0 +1,1 @@
+../../../web.whatsapp.com/locales/pt.5ca348a96c2422baec78.js

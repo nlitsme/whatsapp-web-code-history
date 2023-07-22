@@ -1,0 +1,1 @@
+../../web.whatsapp.com/vendor1~bootstrap_qr.010e0b1e6789f30ac249.js

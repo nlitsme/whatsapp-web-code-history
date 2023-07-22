@@ -1,0 +1,17 @@
+/*! Copyright (c) 2020 WhatsApp Inc. All Rights Reserved. */
+
+/**
+ * An implementation of the standard DOMException and DOMError interfaces
+ *
+ * @module w3c-domcore-errors
+ * @see http://www.w3.org/TR/dom/#errors
+ * @see http://dom.spec.whatwg.org/#errors
+ *
+ * @author Alexandre Morgaut (http://github.com/AMorgaut)
+ * @license MIT
+ **/
+
+/**
+* @link https://github.com/gajus/sister for the canonical source repository
+* @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
+*/

@@ -1,0 +1,1 @@
+../../web.whatsapp.com/runtime.2679864e352e7b4185cc.js

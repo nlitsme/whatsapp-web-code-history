@@ -1,0 +1,1 @@
+../../web.whatsapp.com/webp_to_rgba.worker.16749871bf29d7f79f7e.worker.js

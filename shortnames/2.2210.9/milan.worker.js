@@ -1,0 +1,1 @@
+../../web.whatsapp.com/milan.df7e9fe0012bf2b673ef.worker.js

@@ -1,0 +1,1 @@
+../../../web.whatsapp.com/moment_locales/tr.c7377da6863a1d45f5d6.js

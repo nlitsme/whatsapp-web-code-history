@@ -1,0 +1,1 @@
+../../web.whatsapp.com/WAWebWebpToAnimationFrames.worker.879f8671e106501841fd.worker.js

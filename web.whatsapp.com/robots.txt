@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /$
+Allow: /accept*
+Allow: /invite*
+Allow: /send*
+Allow: /%F0%9F%8C%90/*
+Disallow: /

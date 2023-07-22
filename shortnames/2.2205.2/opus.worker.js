@@ -1,0 +1,1 @@
+../../web.whatsapp.com/opus.09102b21e963a34779d8.worker.js

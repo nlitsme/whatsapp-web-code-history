@@ -1,0 +1,1 @@
+../../web.whatsapp.com/index.d6f1f37beaeb40b72917.worker.js

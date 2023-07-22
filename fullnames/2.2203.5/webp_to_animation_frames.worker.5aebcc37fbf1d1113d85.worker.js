@@ -1,0 +1,1 @@
+../../web.whatsapp.com/webp_to_animation_frames.worker.5aebcc37fbf1d1113d85.worker.js

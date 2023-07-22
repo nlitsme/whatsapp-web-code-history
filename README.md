@@ -29,8 +29,10 @@ Things to note
     - b < 25
  * index.html and serviceworker.js are not versioned.
  * assets-manifest.json and binary-transparency-manifest.json without the version in their name are for version 2.2202.10
- * with version 2.2245.8,  `bootstrap\_qr` was renamed to `app`, and `bootstrap\_main` was renamed to `main`
+ * with version 2.2245.8,  `bootstrap_qr` was renamed to `app`, and `bootstrap_main` was renamed to `main`
 
+ * I only partitioned the files since v2.2202.10 in the short/full names directories.
+ * I did scrape several older `app.js` files from archive.org, starting with v0.2.9008.
 
 Author
 ======

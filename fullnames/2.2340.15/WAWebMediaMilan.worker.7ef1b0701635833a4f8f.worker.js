@@ -1,0 +1,1 @@
+../../web.whatsapp.com/WAWebMediaMilan.worker.7ef1b0701635833a4f8f.worker.js

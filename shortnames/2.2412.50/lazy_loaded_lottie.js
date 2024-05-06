@@ -1,0 +1,1 @@
+../../web.whatsapp.com/lazy_loaded_lottie.07e6bac35c36cd8557b0.js

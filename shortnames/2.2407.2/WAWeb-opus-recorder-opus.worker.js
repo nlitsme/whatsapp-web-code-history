@@ -1,0 +1,1 @@
+../../web.whatsapp.com/WAWeb-opus-recorder-opus.580600bca9f45ea6e111.worker.js

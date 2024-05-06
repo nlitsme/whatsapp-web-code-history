@@ -1,0 +1,1 @@
+../../../web.whatsapp.com/locales/WAWebCountriesLocaleRU-js.0baef9e1320935404d97.js

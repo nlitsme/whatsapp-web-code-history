@@ -1,0 +1,1 @@
+../../web.whatsapp.com/vendor1~app.faf9096ea5e5e9ae7ce7.js

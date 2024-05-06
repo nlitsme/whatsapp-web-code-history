@@ -1,0 +1,1 @@
+../../web.whatsapp.com/lazy_loaded_high_priority_components.924dbaeb24086e5464e2.js

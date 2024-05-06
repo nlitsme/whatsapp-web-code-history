@@ -1,0 +1,1 @@
+../../web.whatsapp.com/app.e67a2d72126a20d99952.js
